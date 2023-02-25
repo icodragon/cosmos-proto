@@ -1,4 +1,4 @@
-Install
+Install dependencies
 > yarn install
 
 Start
